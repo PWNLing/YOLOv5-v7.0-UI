@@ -1,6 +1,7 @@
 # YOLOv5-v7.0-UI
 ## Description
-将YOLOv5-v7.0集成到PyQt中，比较简陋，可自行美化，比如使用pyside
+将YOLOv5-v7.0集成到PyQt中，比较简陋，可自行美化，比如使用pyside  
+![img](./img/UI.png)
 ## environment config
 ```bash
 # 创建
